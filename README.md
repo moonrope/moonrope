@@ -33,11 +33,4 @@
 
 ### My stats
 <!--START_SECTION:waka-->
-```text
-Blade Template   4 hrs 38 mins   █████████░░░░░░░░░░░░░░░░   35.80 % 
-Vue.js           3 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-PHP              2 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   22.61 % 
-JavaScript       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Git Config       23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-```
 <!--END_SECTION:waka-->
