@@ -44,26 +44,6 @@
 
 ```
 
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Europe/Oslo
-
-💬 Languages: 
-No Activity tracked this Week
-
-🔥 Editors: 
-No Activity tracked this Week
-
-🐱‍💻 Projects: 
-No Activity tracked this Week
-
-💻 Operating Systems: 
-No Activity tracked this Week
-
-```
-
 **I mostly code in PHP** 
 
 ```text
@@ -72,8 +52,5 @@ CSS          2 repos        ███████░░░░░░░░░░�
 Vue          1 repos        ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
-
-
-
 <!--END_SECTION:waka-->
 
