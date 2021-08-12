@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a ATS base on laravel with Hubspot CRM integration
+- 🔭 Senior software engineer at Brainbase
 - 🌱 I’m currently learning kubernets
 - 👯 I’m looking to collaborate on projects like, tailwind, VueJS, NuxtJS
 - 🤔 I’m looking for help with what ever is need in my skills set
