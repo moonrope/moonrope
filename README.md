@@ -4,8 +4,7 @@
 
 - 🔭 Senior software engineer at Brainbase
 - 🌱 I’m currently learning NLP
-- 👯 I’m looking to collaborate on projects like, tailwind, VueJS, NuxtJS
-- 🤔 I’m looking for help with what ever is need in my skills set
+- 👯 I’m looking to collaborate on projects like, tailwind, VueJS, NuxtJS, Laravel or PHP in general.
 - 💬 Ask me about anything 
 - 📫 How to reach me: miguel@moonrope.com
 
