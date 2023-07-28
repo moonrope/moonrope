@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Senior software engineer at Brainbase
+- 🔭 Senior software engineer
 - 🌱 I’m currently learning NLP
 - 👯 I’m looking to collaborate on projects like, tailwind, VueJS, NuxtJS, Laravel or PHP in general.
 - 💬 Ask me about anything 
